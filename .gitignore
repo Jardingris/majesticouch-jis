@@ -1,0 +1,20 @@
+# Local hardware evidence and the original design document stay on this Mac.
+/evidence/
+/2026-10-06-majesticouch-jis-helper-design.md
+
+# Generated files and machine-local configuration.
+.DS_Store
+__MACOSX/
+*.log
+*.o
+*.plist
+*.dSYM/
+/build/
+/majesticouch-jis/build/
+/majesticouch-jis/majesticouch-jis
+.env
+.env.*
+*.key
+*.pem
+.agents/
+.codex/
